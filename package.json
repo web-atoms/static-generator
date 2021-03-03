@@ -1,0 +1,27 @@
+{
+  "name": "@web-atoms/static-generator",
+  "version": "1.1.200",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postversion": "git push --follow-tags"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/web-atoms/static-generator.git"
+  },
+  "dependencies": {
+    "@web-atoms/core": "^2.0.7",
+    "@web-atoms/date-time": "^1.0.26",
+    "@web-atoms/module-loader": "^2.0.8",
+    "reflect-metadata": "^0.1.13"
+  },
+  "devDependencies": {
+    "@types/ejs": "^2.7.0",
+    "@types/node": "^11.15.43",
+    "fs": "0.0.1-security"
+  },
+  "author": "",
+  "license": "MIT"
+}

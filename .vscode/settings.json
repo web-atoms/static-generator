@@ -1,0 +1,17 @@
+{
+    "terminal.integrated.shellArgs.windows": ["-ExecutionPolicy", "Bypass"],
+    "cSpell.words": [
+        "AACCN",
+        "Akash",
+        "GSTIN",
+        "Kava",
+        "Mahape",
+        "Milliennium",
+        "Navi",
+        "Neuro",
+        "downlevel",
+        "htmlencode",
+        "webatoms",
+        "wkhtmltopdf"
+    ]
+}
